@@ -1,5 +1,5 @@
 
-**Comprehensive Market Analysis & Performance Monitoring of Google Play Store Apps**
+**Performance Monitoring of Google Play Store Apps**
 
 ## 📌 Project Overview:
 This project aims to perform a comprehensive analysis of the Google Play Store dataset to uncover key trends and patterns related to app ratings, installs, revenue generation, and user engagement. The project involves a thorough data cleaning process using Python libraries and subsequent analysis using MySQL. The primary goal is to provide actionable insights to support app development decisions, including identifying the top-performing app categories, understanding app distribution across genres, and recognizing underperforming apps with untapped potential.
