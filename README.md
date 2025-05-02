@@ -22,17 +22,8 @@ This project focuses on performing a **comprehensive SQL-based analysis** of the
 
 - **SQL (MySQL)** – for querying and data analysis
 - **Python (Pandas, NumPy)** – for data cleaning and preprocessing
-- **Excel** – for early inspection
-- **Power BI** – for visualization (optional)
 
----
 
-## 📂 Dataset
-
-- **Source**: Google Play Store Dataset (publicly available)
-- **Features**: App name, Category, Rating, Reviews, Installs, Type, Price, Genre, and more.
-
----
 
 ## 🧹 Data Cleaning (Python)
 
